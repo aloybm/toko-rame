@@ -7,4 +7,6 @@ Aloysius Bataona Manullang - 5027211008 - Institut Teknologi Sepuluh Nopember
 ## Produk
 ![image](https://github.com/user-attachments/assets/89094acf-4e81-4b7b-b61e-90e4f5f63994)
 
+## Demo App
+https://github.com/user-attachments/assets/5ce610ee-24b4-4799-978b-bec17bc3c0cf
 
