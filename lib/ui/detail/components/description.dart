@@ -83,7 +83,7 @@ class _DetailDescriptionWidgetState extends State<DetailDescriptionWidget> {
                   _isExpanded ? 'Tutup' : 'Selengkapnya',
                   style: const TextStyle(
                     color: Colors.blue,
-                    fontWeight: FontWeight.bold,
+                    fontWeight: FontWeight.w500,
                     fontSize: 14,
                   ),
                 ),
